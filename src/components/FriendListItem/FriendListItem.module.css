@@ -1,0 +1,15 @@
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
+.img {
+  margin: 0 auto;
+  width: 60px;
+  height: 100%;
+}
+.name {
+  font-size: 20px;
+  font-weight: 500;
+}
